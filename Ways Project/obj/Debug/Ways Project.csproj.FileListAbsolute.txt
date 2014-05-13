@@ -38,3 +38,5 @@ C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project.exe
 C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project.application
 C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Administation.baml
 C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Administation.g.cs
+C:\Users\Sora-nii\Source\Repos\Exia_Ways2\Ways Project\bin\Debug\Ways Project.exe.config
+C:\Users\Sora-nii\Source\Repos\Exia_Ways2\Ways Project\obj\Debug\Ways Project.exe
