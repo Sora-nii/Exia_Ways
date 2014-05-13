@@ -29,7 +29,7 @@ namespace Ways_Project
         {
             AdminHomePageWindow admin = new AdminHomePageWindow();
             admin.Show();
-            admin.Initialize();
+            
         }
 
         
