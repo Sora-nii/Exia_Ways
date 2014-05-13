@@ -20,3 +20,21 @@ C:\Users\Clément\Documents\Visual Studio 2013\Projects\Ways Project\Ways Projec
 C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\bin\Debug\Ways Project.exe.config
 C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project.exe
 C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project.pdb
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\bin\Debug\Ways Project.exe.manifest
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\bin\Debug\Ways Project.application
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\bin\Debug\Ways Project.exe
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\bin\Debug\Ways Project.pdb
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project.csprojResolveAssemblyReference.cache
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\AdminHomePageWindow.baml
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\MainWindow.baml
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\AdminHomePageWindow.g.cs
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\MainWindow.g.cs
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\App.g.cs
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project_MarkupCompile.cache
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project.g.resources
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways_Project.Properties.Resources.resources
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project.csproj.GenerateResource.Cache
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project.exe.manifest
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Ways Project.application
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Administation.baml
+C:\Users\Clément\Source\Repos\Exia_Ways\Ways Project\obj\Debug\Administation.g.cs

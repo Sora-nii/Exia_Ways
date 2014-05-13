@@ -25,6 +25,16 @@ namespace Ways_Project
             InitializeComponent();
         }
 
+        private void LoginButton_Click(bool pwd)
+        {
+            if (pwd == true)
+            {
+                
+            }
+            else
+            {}
+        }
+
 
     }
 }
